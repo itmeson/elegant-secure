@@ -1,6 +1,8 @@
 This theme is largely the same as the pelican-elegant theme by talha131, with some tweaks to make it work better as a course management system for my teaching.
 
-Please visit [Elegant - a theme for Pelican](http://oncrashreboot.com/pelican-elegant) at my blog for detailed features and documentation.
+
+
+Please visit [Elegant - a theme for Pelican](http://oncrashreboot.com/pelican-elegant) at talh131's blog for detailed features and documentation.
 
 Elegant offers several unique features including search, live filter, collapsible comments, Mailchimp, custom 404 page, etc. It is a minimal, and stylish theme that looks amazing across all screen resolutions and devices.  
 
